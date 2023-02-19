@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\homework3\number2\bin\Debug\net6.0\number2.exe
+C:\Users\user\Desktop\homework3\number2\bin\Debug\net6.0\number2.deps.json
+C:\Users\user\Desktop\homework3\number2\bin\Debug\net6.0\number2.runtimeconfig.json
+C:\Users\user\Desktop\homework3\number2\bin\Debug\net6.0\number2.dll
+C:\Users\user\Desktop\homework3\number2\bin\Debug\net6.0\number2.pdb
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.AssemblyInfo.cs
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.dll
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\refint\number2.dll
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.pdb
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\number2.genruntimeconfig.cache
+C:\Users\user\Desktop\homework3\number2\obj\Debug\net6.0\ref\number2.dll
